@@ -1,3 +1,4 @@
+## Taller 1 Unidad 2 Francis Bravo, Michael Yanez
 ## Método de Newton - Animación 1
 
 ![Newton Method Animacion ejercicio #1](newton_raphson_mejoradoEjercicio1.gif)
